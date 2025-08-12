@@ -1,5 +1,5 @@
-🛒 Black Friday Sales Analysis — EDA & Insights
-This project is my hands-on attempt at exploring Black Friday sales data using Python. I wanted to see how factors like Age, Gender, City, and Product Categories affect customer purchase behavior.
+🛒 Black Friday Sales Analysis —
+EDA & Insights This project is my hands-on attempt at exploring Black Friday sales data using Python. I wanted to see how factors like Age, Gender, City, and Product Categories affect customer purchase behavior.
 
 📂 Project Files
 train.csv → The dataset containing anonymized customer info, product categories, and purchase amounts.
