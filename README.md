@@ -28,3 +28,6 @@ Younger age groups tend to purchase more in certain product categories.
 Purchase behavior varies significantly across city categories.
 
 Some product categories dominate across all demographics.
+
+🎯 Why I Did This
+Just practicing my EDA and visualization skills as part of my Data Science learning journey. The goal was to think like an analyst and make sense of raw sales data.
