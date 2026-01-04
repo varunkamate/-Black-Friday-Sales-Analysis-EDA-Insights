@@ -13,6 +13,7 @@ Explored relationships between demographics and purchase amount.
 
 Used Seaborn and Matplotlib to create meaningful visualizations.
 
+
 Highlighted patterns in product preferences across different age groups and cities.
 
 📊 Skills & Libraries Used
